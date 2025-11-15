@@ -58,7 +58,7 @@ So `"apple"` is placed in **bucket 0**.
 
 ---
 
-## ▶️ How to Compile & Run
+## How to Compile & Run
 
 ### 1. Make sure these files are present:
 - `HashTable.java`  
